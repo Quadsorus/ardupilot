@@ -96,3 +96,7 @@ GRTAGS
 GTAGS
 config.mk
 *.apj
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
